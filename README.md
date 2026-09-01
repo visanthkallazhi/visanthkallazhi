@@ -24,11 +24,13 @@ I bridge the gap between complex data infrastructure and high-impact business de
 ├── BI & Reporting   :: Power BI (DAX, Data Models, DirectQuery), Tableau, Looker Studio, Vector DBs
 └── DataOps & Quality:: Git, GitHub Actions, CI/CD, Great Expectations, Data Contracts, Docker
 
-⚡ Technical Specialties
+```
+
+### ⚡ Technical Specialties
 Modern Data Stack Architecture: dbt + Databricks / Snowflake / BigQuery + Airflow
 
 Enterprise BI & Data Modeling: Complex DAX measures, semantic layer governance, RLS/CLS design
 
 DataOps & Governance: CI/CD pipeline deployment, automated data quality validation, metadata lineage
 
-🤝 Connect with me: visanth.kallazhi1401@gmail.com
+### 🤝 Connect with me: visanth.kallazhi1401@gmail.com
