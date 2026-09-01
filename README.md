@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Visanth Kallazhi 👋
 
 **Senior Data Analyst & Analytics Engineer** with 8+ years of experience architecting end-to-end data solutions, modern cloud data platforms, and executive Power BI dashboards. 
 
